@@ -1,0 +1,12 @@
+{
+  "name": "vex-auton-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Visual autonomous programming and simulation IDE for VEX V5.",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
